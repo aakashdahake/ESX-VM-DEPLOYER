@@ -10,5 +10,8 @@ The GUI is developed using Windows forms, andruns on single thread so app may fr
 
 Screenshots-
 
-Login UI-
-![Login UI](master/Login.png)
+
+![Login UI](Login.png)
+
+
+![Data Form](Form.png)
