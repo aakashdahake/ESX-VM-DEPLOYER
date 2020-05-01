@@ -1,7 +1,7 @@
 # ESX-VM-DEPLOYER
 
-This tool is developed to deploy syspreped Windows virtual machine OVA or any custom Linux based OVAon VMware ESX hypervisor.
-It needs PowerCLI to function, which can be installed from PowerShell Gallery
+This tool is developed to deploy syspreped Windows virtual machine OVA or any custom Linux based OVA on VMware ESX hypervisor.
+It needs PowerCLI to function, which can be installed from PowerShell Gallery.
 
 --> Install-Module -Name VMware.PowerCLI -Scope CurrentUser
 
